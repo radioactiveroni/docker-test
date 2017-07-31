@@ -1,0 +1,1 @@
+this is demo project for running spring in a docker container using mongo db as a repo.
